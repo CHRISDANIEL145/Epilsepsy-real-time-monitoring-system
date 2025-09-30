@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Epilepsy Real-Time Monitoring System",
+  "description": "A web application for real-time EEG monitoring and epilepsy state prediction. It provides role-based dashboards for patients, doctors, caregivers, and admins to monitor brain activity and receive timely alerts.",
+  "requestFramePermissions": []
+}
